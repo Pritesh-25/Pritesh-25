@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Pritesh
 - 👀 I’m interested anything with Data. Walking small steps with Data, trying to understand pattern and find insights out of it.
-- 🌱 I’m currently learning Data Science and its applications on various domains.
-- 💞️ I’m looking to collaborate on projects related to Data Science.
+- 🌱 I’m currently learning Data Engineering and its applications on various domains.
+- 💞️ I’m looking to collaborate on projects related to Data Engineering.
 - 📫 How to reach me ...
 
 <!---
